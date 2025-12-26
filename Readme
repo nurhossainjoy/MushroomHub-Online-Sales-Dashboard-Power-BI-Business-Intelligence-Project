@@ -1,1 +1,82 @@
+# MushroomHub Online Sales Dashboard – Power BI Business Intelligence Project
+
+This project presents an interactive Power BI dashboard designed to analyse online sales performance for MushroomHub. The dashboard provides insights into revenue trends, product performance, customer purchasing behaviour, regional contribution, and profitability metrics. The objective of this project is to support data-driven business decision-making through visual analytics and performance monitoring.
+
+## Project Objectives
+
+- Analyse total sales amount, profit, AOV (Average Order Value), and quantity sold
+- Identify top-performing product categories and sub-categories
+- Evaluate sales performance across customer segments and states
+- Monitor profit and order volume trends across different months
+- Understand payment mode preferences and their contribution to overall sales
+- Provide drill-down and filter-based decision support analysis
+
+## Key Performance Indicators (KPIs)
+
+The dashboard tracks the following business metrics:
+
+- Total Sales Amount
+- Total Quantity Sold
+- Total Profit Generated
+- Average Order Value (AOV)
+
+## Analytical Insights Covered
+
+- Profit by Sub-Category
+- Profit by Month
+- Quantity by Category
+- Quantity by Payment Mode
+- Amount by Customer Name
+- State-wise Profit Contribution
+- Top and Bottom Performing Products and States
+
+## Tools and Technologies Used
+
+- Power BI Desktop
+- Power Query for data transformation
+- Data Modelling and DAX Measures
+- Interactive Visualisations and Drill-through Analysis
+
+## Dataset Information
+
+The dataset contains transactional sales records including:
+
+- Order ID
+- Customer Name
+- Product Category and Sub-Category
+- Quantity and Amount
+- Profit and AOV
+- Payment Mode
+- City and State
+- Order Date
+
+The dataset was cleaned and structured using Power Query prior to analysis.
+
+## Project Files Included
+
+- Power BI Dashboard (.pbix file)
+- Dataset (if publicly shareable)
+- Screenshots of dashboard visualisations
+- Documentation explaining insights and findings
+
+## How to View the Dashboard
+
+1. Download the .pbix file from the repository
+2. Open it using Power BI Desktop
+3. Use filters and slicers to interact with the dashboard
+
+If Power BI Desktop is not installed, screenshots have been provided for reference.
+
+## Business Impact and Use Cases
+
+The dashboard can be used by:
+
+- Sales and Marketing Teams to track performance trends
+- Business Analysts for insight generation and reporting
+- Management for strategic and financial decision-making
+
+## Conclusion
+
+The dashboard demonstrates how business intelligence and visual analytics can support revenue monitoring, customer insight discovery, and operational decision support. The project highlights practical application of Power BI for real-world sales analysis.
+
 
